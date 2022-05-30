@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### My pet projects
 
-*   [chat](https://github.com/Sinamon-maker/sale) - chat
-*   [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus) - e-commerce
-*   [game](https://github.com/fasteks/game) - game of cards
-*   [todo](https://github.com/fasteks/task-manager) - To do list
+*   [chat](https://github.com/Sinamon-maker/sale)
+*   [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
+*   [game](https://github.com/fasteks/game)
+*   [todo](https://github.com/fasteks/task-manager)
