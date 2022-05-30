@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    </a>
    
 <p align='center'>
-   📫 Сontact me: <a href='mailto:xpynkostb@gmail.com'>nikaterina@gmail.com</a>
+   📫 Сontact me: <a href='mailto:xpynkostb@gmail.com'>xpynkostb@gmail.com</a>
 </p>
 
 ## 🛠 Technical Stack
