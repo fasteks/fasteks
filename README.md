@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/ivan-boldyrev-4123991aa/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   
+<p align='center'>
+   📫 Сontact me: <a href='mailto:xpynkostb@gmail.com'>nikaterina@gmail.com</a>
+</p>
+
 ## 🛠 Technical Stack
 *   JavaScript (ES6), HTML, CSS
 *   React
