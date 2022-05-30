@@ -1,4 +1,5 @@
-### Hello there 👋 My name John, I am React developer!
+### Hello there 👋 
+My name John, I am React developer!
 
 <!--
 **fasteks/fasteks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
