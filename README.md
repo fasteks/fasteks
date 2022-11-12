@@ -1,4 +1,4 @@
-### Hello there 👋 
+### Hello 👋 
 My name John, I am React developer!
 
 <!--
