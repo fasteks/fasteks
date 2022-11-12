@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### My pet projects
 
-*   [chat](https://github.com/Sinamon-maker/sale)
+*   [chat](https://github.com/fasteks/chat)
 *   [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
 *   [game](https://github.com/fasteks/game)
 *   [todo](https://github.com/fasteks/task-manager)
