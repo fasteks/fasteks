@@ -1,6 +1,7 @@
 ### Hello 👋 
+<!--
 My name is Ivan, I am React developer!
-
+-->
 <!--
 **fasteks/fasteks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--  
 <p align='center'>
    <a href="https://www.linkedin.com/in/ivan-boldyrev-4123991aa/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,3 +39,4 @@ Here are some ideas to get you started:
 *   [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
 *   [game](https://github.com/fasteks/game)
 *   [todo](https://github.com/fasteks/task-manager)
+-->
